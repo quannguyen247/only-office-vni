@@ -1,0 +1,315 @@
+{
+  "timestamp": "2026-10-10T15:00:43.177Z",
+  "url": "file:///app/bin/opt/onlyoffice/desktopeditors/editors/web-apps/apps/api/documents/index.html?placement=desktop&doctype=cell&lang=en-US&username=quan&location=EN&title=Book1.xlsx&desktop=true",
+  "results": [
+    {
+      "test": "F8 enable/disable, autorepeat, Shift+F8 mode",
+      "passed": true,
+      "shortcuts": [
+        0,
+        0
+      ]
+    },
+    {
+      "mode": "telex",
+      "keys": "hieeus",
+      "expected": "hiếu",
+      "actual": "hiếu",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "hiese",
+      "expected": "hiế",
+      "actual": "hiế",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "hieesng",
+      "expected": "hiếng",
+      "actual": "hiếng",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "HIEEUS",
+      "expected": "HIẾU",
+      "actual": "HIẾU",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "hie61u",
+      "expected": "hie61u",
+      "actual": "hie61u",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "nguwowif",
+      "expected": "người",
+      "actual": "người",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "nguowif",
+      "expected": "người",
+      "actual": "người",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "quowr",
+      "expected": "quở",
+      "actual": "quở",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "quys",
+      "expected": "quý",
+      "actual": "quý",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "gias",
+      "expected": "giá",
+      "actual": "giá",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "gieengs",
+      "expected": "giếng",
+      "actual": "giếng",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "tuyeenr",
+      "expected": "tuyển",
+      "actual": "tuyển",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "tieengs",
+      "expected": "tiếng",
+      "actual": "tiếng",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "dd",
+      "expected": "đ",
+      "actual": "đ",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "aaa",
+      "expected": "aa",
+      "actual": "aa",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "ass",
+      "expected": "as",
+      "actual": "as",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "ddd",
+      "expected": "dd",
+      "actual": "dd",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "aww",
+      "expected": "aw",
+      "actual": "aw",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "muwa",
+      "expected": "mưa",
+      "actual": "mưa",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "muas",
+      "expected": "múa",
+      "actual": "múa",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "thuowng",
+      "expected": "thương",
+      "actual": "thương",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "dduowngf",
+      "expected": "đường",
+      "actual": "đường",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "hosa",
+      "expected": "hoá",
+      "actual": "hoá",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "hoangf",
+      "expected": "hoàng",
+      "actual": "hoàng",
+      "passed": true
+    },
+    {
+      "mode": "telex",
+      "keys": "hieeus, tieengs Vieetj Nam.",
+      "expected": "hiếu, tiếng Việt Nam.",
+      "actual": "hiếu, tiếng Việt Nam.",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "hie61u",
+      "expected": "hiếu",
+      "actual": "hiếu",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "hieeus",
+      "expected": "hieeus",
+      "actual": "hieeus",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "dd",
+      "expected": "dd",
+      "actual": "dd",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "a6",
+      "expected": "â",
+      "actual": "â",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "a8",
+      "expected": "ă",
+      "actual": "ă",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "u7",
+      "expected": "ư",
+      "actual": "ư",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "d9",
+      "expected": "đ",
+      "actual": "đ",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "ho1a",
+      "expected": "hoá",
+      "actual": "hoá",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "qua3",
+      "expected": "quả",
+      "actual": "quả",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "gia3",
+      "expected": "giả",
+      "actual": "giả",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "nguo72i",
+      "expected": "người",
+      "actual": "người",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "quo73",
+      "expected": "quở",
+      "actual": "quở",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "d9a1",
+      "expected": "đá",
+      "actual": "đá",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "a11",
+      "expected": "a1",
+      "actual": "a1",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "a66",
+      "expected": "a6",
+      "actual": "a6",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "d99",
+      "expected": "d9",
+      "actual": "d9",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "HIE61U",
+      "expected": "HIẾU",
+      "actual": "HIẾU",
+      "passed": true
+    },
+    {
+      "mode": "vni",
+      "keys": "A63N1",
+      "expected": "ẤN",
+      "actual": "ẤN",
+      "passed": true
+    }
+  ]
+}

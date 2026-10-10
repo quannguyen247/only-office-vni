@@ -1,0 +1,10 @@
+{
+  "date": "2026-10-10",
+  "check": "Set VNI enabled in the scratch Spreadsheet, close its ONLYOFFICE instance, launch a new blank Word, then read without setting IME preferences",
+  "expected": { "mode": "vni", "enabled": true },
+  "actual": {
+    "editorFrame": { "mode": "vni", "enabled": true, "storedMode": "vni", "storedEnabled": "true" },
+    "documentFrame": { "mode": "vni", "enabled": true, "storedMode": "vni", "storedEnabled": "true" }
+  },
+  "passed": true
+}
